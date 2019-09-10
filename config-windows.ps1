@@ -5,7 +5,7 @@ Script de configuración automática de Windows 10 (Personalizado para mi portá
 "@
 
 # Load functions from library
-Invoke-Expression ((New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/fvarrui/win10-configurator/master/functions.ps1"))
+Invoke-Expression ((New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/fvarrui/ConfigMyWin10/master/functions.ps1"))
 
 # Check if is running as administrator
 If (Test-RunningAsAdministrator) {
