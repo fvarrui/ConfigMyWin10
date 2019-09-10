@@ -22,7 +22,7 @@ samsung-magician
 scenebuilder9
 spotify
 teamviewer
-telegram
+telegram.install
 tiled
 typora
 unetbootin
