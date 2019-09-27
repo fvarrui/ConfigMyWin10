@@ -12,7 +12,9 @@ Para configurar mi equipo con Windows 10 recién instalado ejecuto el siguiente 
 
 4. Cambia el nombre del equipo a `CENTOLLO` (el nombre de mi portátil) y mete el equipo en el grupo de trabajo `MINIK`.
 
-5. Reinicia el equipo para establecer algunos cambios realizados.
+5. Cambia la zona horaria a GMT/UTC+0.
+
+6. Reinicia el equipo para establecer algunos cambios realizados.
 
 ## Requisitos
 
