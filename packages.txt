@@ -1,7 +1,7 @@
-﻿7zip
+7zip
 adobereader
 adoptopenjdk11
-eclipse
+eclipse-java-oxygen
 etcher
 filezilla
 firefox
