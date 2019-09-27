@@ -21,7 +21,7 @@ Para configurar mi equipo con Windows 10 recién instalado ejecuto el siguiente 
 
 ## Ejecución del script
 
-Ejecutar el siguiente comando desde **PowerShell** como `Administrador` desde:
+Ejecutar el siguiente comando como `Administrador` desde **PowerShell (PS)**:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/fvarrui/ConfigMyWin10/master/config-windows.ps1'))
