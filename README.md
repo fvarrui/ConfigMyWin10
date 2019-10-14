@@ -28,3 +28,9 @@ Ejecutar el siguiente comando como `Administrador` desde **PowerShell (PS)**:
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/fvarrui/ConfigMyWin10/master/config-windows.ps1'))
 ```
+
+## Para desinstalar sólo OneDrive 
+
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/fvarrui/ConfigMyWin10/master/uninstall-onedrive.ps1'))
+```
