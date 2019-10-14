@@ -14,6 +14,7 @@ googlechrome
 innosetup
 inkscape
 itunes
+qbittorrent
 libreoffice-fresh
 notepadplusplus
 putty
