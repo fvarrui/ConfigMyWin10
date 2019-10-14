@@ -21,7 +21,7 @@ Para configurar mi equipo con Windows 10 recién instalado ejecuto el siguiente 
 * Windows 10+/2016+
 * PowerShell v5+
 
-## Ejecución del script
+## Configuración completa del equipo
 
 Ejecutar el siguiente comando como `Administrador` desde **PowerShell (PS)**:
 
@@ -29,7 +29,9 @@ Ejecutar el siguiente comando como `Administrador` desde **PowerShell (PS)**:
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/fvarrui/ConfigMyWin10/master/config-windows.ps1'))
 ```
 
-## Para desinstalar sólo OneDrive 
+## Sólo desinstalar OneDrive 
+
+Ejecutar el siguiente comando como `Administrador` desde **PowerShell (PS)**:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/fvarrui/ConfigMyWin10/master/uninstall-onedrive.ps1'))
