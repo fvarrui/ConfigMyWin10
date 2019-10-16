@@ -2,7 +2,6 @@
 adobereader
 adoptopenjdk11
 eclipse-java-oxygen
-etcher
 filezilla
 firefox
 gimp
@@ -15,11 +14,10 @@ innosetup
 inkscape
 itunes
 qbittorrent
-libreoffice-fresh
+maven
 notepadplusplus
 putty
 rufus
-samsung-magician
 scenebuilder9
 spotify
 teamviewer
