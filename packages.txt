@@ -18,7 +18,6 @@ maven
 notepadplusplus
 putty
 rufus
-scenebuilder9
 spotify
 teamviewer
 telegram.install
