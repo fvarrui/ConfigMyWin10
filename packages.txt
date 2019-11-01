@@ -18,7 +18,6 @@ maven
 notepadplusplus
 putty
 rufus
-spotify
 teamviewer
 telegram.install
 tiled
