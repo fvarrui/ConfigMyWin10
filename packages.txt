@@ -1,9 +1,9 @@
 7zip
 adobereader
 adoptopenjdk11
+audacity
 eclipse-java-oxygen
 filezilla
-firefox
 gimp
 git
 github-desktop
@@ -12,7 +12,6 @@ google-backup-and-sync
 googlechrome
 innosetup
 inkscape
-itunes
 qbittorrent
 maven
 notepadplusplus
