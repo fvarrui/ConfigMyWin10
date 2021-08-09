@@ -12,6 +12,7 @@ google-backup-and-sync
 googlechrome
 innosetup
 inkscape
+libreoffice-fresh
 qbittorrent
 maven
 notepadplusplus
